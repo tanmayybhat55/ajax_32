@@ -8,7 +8,7 @@ on:
 # See here for more detail about cron: https://crontab.guru/examples.html
 
   schedule:
-    - cron: '30 5 * * *' # Default: run at 00:00 everyday
+    - cron: '15 6 * * *' # Default: run at 00:00 everyday
 
 # TRIGGER ON PUSH / PULL
 
